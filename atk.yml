@@ -1,4 +1,4 @@
-project: atk-sandbox
+project: atk-sandbox-max
 default_containers:
   - dev
 hardware_specific_attributes:
